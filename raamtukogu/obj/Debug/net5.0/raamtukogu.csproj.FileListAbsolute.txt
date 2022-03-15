@@ -1,0 +1,16 @@
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\bin\Debug\net5.0\raamtukogu.exe
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\bin\Debug\net5.0\raamtukogu.deps.json
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\bin\Debug\net5.0\raamtukogu.runtimeconfig.json
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\bin\Debug\net5.0\raamtukogu.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\bin\Debug\net5.0\raamtukogu.dll
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\bin\Debug\net5.0\ref\raamtukogu.dll
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\bin\Debug\net5.0\raamtukogu.pdb
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\obj\Debug\net5.0\raamtukogu.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\obj\Debug\net5.0\raamtukogu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\obj\Debug\net5.0\raamtukogu.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\obj\Debug\net5.0\raamtukogu.AssemblyInfo.cs
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\obj\Debug\net5.0\raamtukogu.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\obj\Debug\net5.0\raamtukogu.dll
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\obj\Debug\net5.0\ref\raamtukogu.dll
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\obj\Debug\net5.0\raamtukogu.pdb
+C:\Users\opilane\source\repos\raamtukogu\raamtukogu\obj\Debug\net5.0\raamtukogu.genruntimeconfig.cache

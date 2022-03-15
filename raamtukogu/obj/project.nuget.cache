@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CnYdZLkXaEe9UiMF3kgwhclOP9/oTM5cZgIqorrzdw2XkdYLxu9mfaxHYJXARD6+CHhoOawUIfgJ4MHzPzfKLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\raamtukogu\\raamtukogu\\raamtukogu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
